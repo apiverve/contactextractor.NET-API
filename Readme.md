@@ -70,8 +70,8 @@ Using the API client, you can perform requests to the API.
 ###### Define Query
 
 ```
-var queryOptions = new contactextractorQueryOptions{
-  url: "https://en.wikipedia.org/wiki/Email_address"
+var queryOptions = new contactextractorQueryOptions {
+  url = "https://en.wikipedia.org/wiki/Email_address"
 };
 ```
 
