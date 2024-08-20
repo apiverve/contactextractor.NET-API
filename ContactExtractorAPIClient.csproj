@@ -4,7 +4,7 @@
     <TargetFrameworks>net20;net35;net40;net45;netstandard2.0;netstandard2.1;net6.0</TargetFrameworks>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>APIVerve.API.ContactExtractor</Title>
-    <Version>1.0.8</Version>
+    <Version>1.1.4</Version>
     <Authors>APIVerve</Authors>
     <Company>APIVerve</Company>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
@@ -14,7 +14,7 @@
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <PackageProjectUrl>https://apiverve.com/?utm_source=nuget</PackageProjectUrl>
     <SignAssembly>False</SignAssembly>
-    <Description>is a simple tool for extracting contact data from a website URL. It returns the contact emails, phone numbers, and places.</Description>
+    <Description>Contact Extractor is a simple tool for extracting contact data from a website URL. It returns the contact emails, phone numbers, and places.</Description>
     <RepositoryUrl>https://github.com/apiverve/contactextractor.NET-API</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>contact extractor; contact data; contact extractor api; contact data api; contact extractor tool</PackageTags>
