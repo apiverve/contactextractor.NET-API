@@ -13,9 +13,6 @@ public class data
     [JsonProperty("url")]
     public string url { get; set; }
 
-    [JsonProperty("contactsFound")]
-    public object contactsFound { get; set; }
-
     [JsonProperty("emails")]
     public string[] emails { get; set; }
 
